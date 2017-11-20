@@ -1,0 +1,19 @@
+.container-fluid {
+  margin-top: 30px;
+}
+
+.header-list .active{
+	background-color: #dcdcdc;
+}
+
+.header-list li:hover .header-list a:hover{
+	background-color: #dcdcdc;
+}
+
+.header-list li:focus, .header-list a:focus{
+	background-color: #dcdcdc; 
+}
+
+.content-box {
+	margin-top:15px;
+}
